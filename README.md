@@ -71,6 +71,7 @@ batch_size = 10
    chmod +x run_script.sh
    ./run_script.sh
    ```
+6. The results can be seen in result.png
 
 ## Approach to Solving the Problem
 
